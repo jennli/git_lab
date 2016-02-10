@@ -8,6 +8,9 @@ On branch feature/uniform_hellos
 - git merge --abort
 - gitx
 
+
+- well here is some new correct notes
+
 ### conflicts
 
 - given 2 branches with conflicts
