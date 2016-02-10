@@ -1,12 +1,5 @@
 #Merge
-
-- git branch
-- git checkout -b feature/uniform_hellos
-- git status
-On branch feature/uniform_hellos
-- git diff master feature/uniform_hellos
-- git merge --abort
-- gitx
+- this is a wrong notes doc
 
 ### conflicts
 
