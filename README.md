@@ -1,7 +1,4 @@
 #Merge
-- this is a wrong notes doc
-
-
 - well here is some new correct notes
 
 ### conflicts
